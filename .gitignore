@@ -1,2 +1,6 @@
 root.img
 mnt/*
+bin/*
+include/*
+lib/*
+debooubuntu.fabfile.egg-info/
